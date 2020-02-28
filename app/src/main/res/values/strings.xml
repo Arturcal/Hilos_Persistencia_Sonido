@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hilos_Persistencia_Sonido</string>
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="ayuda">Help</string>
+
+    <string name="texto_ayuda">
+
+        The main objective of the game is to prevent the ball falling to the ground, touching it with the finger.\n\n
+        To move the ball in a specific direction, touch the screen in the opposite direction.
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Enjoy the game!!
+
+    </string>
+
+    <string name="volver">Back</string>
+
+</resources>
